@@ -1,4 +1,3 @@
-[Assignment3-REPORT-Academic.md](https://github.com/user-attachments/files/23146140/Assignment3-REPORT-Academic.md)
 # Assignment 3 — Optimization of a City Transportation Network (Minimum Spanning Tree)
 
 **Course:** Design and Analysis of Algorithms  
